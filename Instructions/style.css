@@ -1,0 +1,78 @@
+.box {
+    min-height: 50px;
+    padding: 5px;
+    margin: 5px;
+    font-weight: 800;
+    color: #fff;
+  }
+  .skyblue {
+    background: deepskyblue;
+  }
+  .purple {
+    background: rebeccapurple;
+  }
+  .red {
+    background: indianred;
+  }
+  #background {
+    color: #4aaaa5;
+  }
+  .image
+  {
+    padding: 2px;
+    margin: 2px;
+  }
+  .description-header {
+    /* Positioning */
+    margin-bottom: 33px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 32px;
+  font-weight: bold;
+  color: #4aaaa5;
+}
+.description-content {
+    /* Box-model */
+    padding: 30px;
+    /* Positioning */
+    margin-top: 32px;
+    /* Visual */
+    background-color: #fff;
+  }
+  .description-text {
+    padding-bottom: 20px;
+  }
+  #description-image {
+    /* Positioning */
+    float: left;
+    /* Box-model */
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-right: 20px;
+  }
+  .description-content > p {
+    /* Box-model */
+    padding-top: 20px;
+    /* Typography */
+    font-size: 16px;
+    line-height: 30px;
+    color: slategray;
+  }
+  .imageNav-photo {
+    width: 140px;
+    /* Box-model */
+    height: 140px;
+  }
+  .imageNav-header {
+    /* Positioning */
+    margin-bottom: 15px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    /* Typography */
+    font-size: 25px;
+    font-weight: bold;
+    color: #4aaaa5;
+  }
+  #backgrdcolor{
+      background-color: #4aaaa5;
+      color: grey;
+  }
